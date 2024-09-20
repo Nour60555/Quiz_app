@@ -1,1 +1,1 @@
-![hi].(GIFS/Ui.gif).
+![hi].(GIFS/Ui.gif)
